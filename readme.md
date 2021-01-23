@@ -1,1 +1,1 @@
-![](https://github.com/mahkande/SearchBoxAnime/blob/master/captured.gif)
+![](https://github.com/mahkande/feedbackModalCard/blob/master/Capture.PNG)
